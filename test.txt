@@ -6,5 +6,8 @@
 666666
 777777
 public static void main(String []  args){
+
 	System.out.printLn("HelloKitty");
+	System.out.printLn("HelloWorld");
+
 }
